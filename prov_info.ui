@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>prov_info</class>
+ <widget class="QWidget" name="prov_info">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>376</width>
+    <height>151</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="OKButton">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>50</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>OK</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="ComboBox">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Beijing</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tianjin</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hebei</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shanxi</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Inner Mongolia</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Liaoning</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Jilin</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Heilongjiang</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shanghai</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Jiangsu</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Zhejiang</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Anhui</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Fujian</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Jiangxi</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shandong</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Henan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hubei</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hunan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Guangdong</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Guangxi</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hainan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Chongqing</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Sichuan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Guizhou</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Yunnan</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tibet</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Shaanxi</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Gansu</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Qinghai</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Ningxia</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Xingjiang</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Taiwan</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
